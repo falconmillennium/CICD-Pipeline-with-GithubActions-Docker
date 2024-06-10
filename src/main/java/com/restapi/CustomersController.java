@@ -28,5 +28,4 @@ public class CustomersController {
     public String deleteCustomer(){
         return "http GET request to delete the customer";
     }
-
 }
